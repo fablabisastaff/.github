@@ -1,6 +1,6 @@
 ## 👋 Verið velkomin á GitHub síðu Fab Lab Ísafjarðar 👋
 
-🙋‍♀️ Fab Lab er stafræn smiðja, starfrækt á Akureyri. Smiðjan er opin almenningi og fyrirtækjum og er öllum velkomið að nýta aðstöðuna. Nánari upplýsingar um smiðjuna má finna á https://www.fabisa.is. 
+🙋‍♀️ Fab Lab er stafræn smiðja, starfrækt á Ísafirði. Smiðjan er opin almenningi og fyrirtækjum og er öllum velkomið að nýta aðstöðuna. Nánari upplýsingar um smiðjuna má finna á https://www.fabisa.is. 
 
 🌈 Hér höldum við úti ýmsum gagnahirslum (e. repositories), s.s. leiðbeiningum fyrir tækjabúnað smiðjunnar, kennsluefni, áhugaverðum verkefnum og fleiru.
 
